@@ -1,0 +1,43 @@
+{
+  "name": "vscode-themes",
+  "displayName": "vscode-themes",
+  "description": "these are my favourite themes",
+  "version": "0.0.1",
+  "publisher": "codewithHanbal",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Hanbal Ahmed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanbalahmed/theme-extension-pack"
+  },
+  "keywords": [
+    "codewithHanbal",
+    "themes",
+    "dark"
+  ],
+  "extensionPack": [
+    "codewithhanbal.codestackr-theme",
+    "wesbos.theme-cobalt2",
+    "dracula-theme.theme-dracula",
+    "jean.desaturated",
+    "szastupov.one-dark-pale",
+    "ahmadawais.shades-of-purple",
+    "robbowen.synthwave-vscode",
+    "necraidan.winterisgone",
+    "sdras.night-owl",
+    "alexanderte.dainty-vscode",
+    "whizkydee.material-palenight-theme",
+    "codestackr.codestackr-theme"
+  ]
+}
